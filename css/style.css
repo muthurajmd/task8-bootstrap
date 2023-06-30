@@ -1,0 +1,23 @@
+*{
+	margin:0px;
+	padding:0;
+	box-sizing:border-box;
+}
+#head{
+	background-color:#f0f2f5;
+	height:100vh;
+}
+.top-height{
+	padding-top:90px;
+}
+.facebook h1{
+	font-size:50px!important;
+	/* padding-top:3rem; */
+}
+.but-color button{
+  background-color: #42b72a!important;
+  color:#fff!important;
+}
+.padding-change{
+	padding-top:65px!important;
+}

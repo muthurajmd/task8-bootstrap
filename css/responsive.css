@@ -1,0 +1,29 @@
+@media(max-width:576px){
+.res-d-none{
+	display:none;
+}
+.top-height{
+	padding-top:0px;
+}
+.res-width-change{
+	width:100%!important;
+}
+.facebook{
+	text-align:center;
+    padding-top:15px!important;	
+}
+.facebook h1{
+    padding-top:1px!important;	
+}
+.but-color button{
+	width:100%!important;
+}
+.but-color{
+	padding-left:10px!important;
+	padding-right:10px!important;
+}
+
+}
+@media(min-width:768px) and (max-width:991px){
+
+}
